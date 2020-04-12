@@ -1,0 +1,2 @@
+# Sentimental-analysis-of-tweets-using-Naive-Byes-without-Scikit-learn
+The objective is to implement a Naive Bayes classifier to predict whether a tweet was posted by a Republican or Democrat politician. The training data consist of about 13K tweets collected before the 2016 US presidential elections, There are about an equal number of Republican and Democrat tweets, and the tweets belong to three republican and three democrat twitter accounts.
